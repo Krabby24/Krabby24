@@ -1,16 +1,53 @@
-## Hi there 👋
+# Krabby24
 
-<!--
-**Krabby24/Krabby24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher and independent developer.  
+I build things that are technically interesting and occasionally useful —  
+from multiplayer games to AI-powered tools to adversarial LLM systems.
 
-Here are some ideas to get you started:
+Currently finishing a Master's in Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+### ⚔️ Phishing Arena
+Multi-agent LLM tournament where four commercial models compete as
+Phisher, Filter, and Target. 48 matches, 960 rounds, published findings.  
+`Python` · `Multi-agent` · `Adversarial AI` · `Research`
+
+### 🎮 Phishy
+Multiplayer browser game about phishing awareness. Real-time rooms,
+Socket.io backend, built for fun and education.  
+`JavaScript` · `Node.js` · `Socket.io` · `Multiplayer`
+
+### ⚛️ PHYSICA
+Zero-dependency interactive physics playground — fluid simulation,
+cloth, falling sand, soft body, N-body gravity, wave interference.
+Single HTML file, no libraries.  
+`HTML` · `Canvas` · `Physics`
+
+### 🔑 Claude Token Tracker
+Browser extension that reverse-engineers Claude.ai SSE streams
+to track real token usage and 5-hour window consumption in real time.  
+`JavaScript` · `Browser Extension` · `Reverse Engineering`
+
+### 🔍 VerifAI `commercial`
+Browser extension for real-time fake news detection, source intelligence,
+and cookie privacy analysis. Powered by Claude AI with live web search.
+
+### 🏠 VerifLair `commercial`
+OSINT-powered extension that verifies rental listings and host credibility
+before you book or sign anything.
+
+---
+
+## Stack
+
+`Python` `JavaScript` `React` `Node.js` `Claude API` `Linux`
+
+---
+
+## Contact
+
+Open to collaborations, research, and interesting problems.  
+→ [github.com/Krabby24](https://github.com/Krabby24)
