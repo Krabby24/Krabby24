@@ -16,7 +16,7 @@ Phisher, Filter, and Target. 48 matches, 960 rounds, published findings.
 `Python` · `Multi-agent` · `Adversarial AI` · `Research`
 
 ### 🎮 Phishy
-Multiplayer browser game about phishing awareness. Real-time rooms,
+Multiplayer browser game, the LLM makes a non-trivial question and you have to guess the correct answer, betting on the best ones. Real-time rooms,
 Socket.io backend, built for fun and education.  
 `JavaScript` · `Node.js` · `Socket.io` · `Multiplayer`
 
