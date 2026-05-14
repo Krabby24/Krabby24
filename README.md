@@ -20,16 +20,16 @@ Multiplayer browser game, the LLM makes a non-trivial question and you have to g
 Socket.io backend, built for fun and education.  
 `JavaScript` · `Node.js` · `Socket.io` · `Multiplayer`
 
+### 🔑 Claude Token Tracker
+Browser extension that reverse-engineers Claude.ai SSE streams
+to track real token usage and 5-hour window consumption in real time. This is useful for whoever has the free account. 
+`JavaScript` · `Browser Extension` · `Reverse Engineering`
+
 ### ⚛️ PHYSICA
 Zero-dependency interactive physics playground — fluid simulation,
 cloth, falling sand, soft body, N-body gravity, wave interference.
 Single HTML file, no libraries.  
 `HTML` · `Canvas` · `Physics`
-
-### 🔑 Claude Token Tracker
-Browser extension that reverse-engineers Claude.ai SSE streams
-to track real token usage and 5-hour window consumption in real time.  
-`JavaScript` · `Browser Extension` · `Reverse Engineering`
 
 ### 🔍 VerifAI `commercial`
 Browser extension for real-time fake news detection, source intelligence,
