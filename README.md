@@ -22,7 +22,7 @@ Socket.io backend, built for fun and education.
 
 ### 🔑 Claude Token Tracker
 Browser extension that reverse-engineers Claude.ai SSE streams
-to track real token usage and 5-hour window consumption in real time. This is useful for whoever has the free account. 
+to track real token usage and 5-hour window consumption in real time. This is useful for whoever has the free account.  
 `JavaScript` · `Browser Extension` · `Reverse Engineering`
 
 ### ⚛️ PHYSICA
