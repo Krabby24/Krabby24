@@ -13,23 +13,24 @@ Currently finishing a Master's in Cybersecurity.
 ### ⚔️ Phishing Arena
 Multi-agent LLM tournament where four commercial models compete as
 Phisher, Filter, and Target. 48 matches, 960 rounds, published findings.  
-`Python` · `Multi-agent` · `Adversarial AI` · `Research`
-
-### 🎮 Phishy
-Multiplayer browser game, the LLM makes a non-trivial question and you have to guess the correct answer, betting on the best ones. Real-time rooms,
-Socket.io backend, built for fun and education.  
-`JavaScript` · `Node.js` · `Socket.io` · `Multiplayer`
+`Python` · `Multi-agent` · `Adversarial AI` · `Research`  
 
 ### 🔑 Claude Token Tracker
 Browser extension that reverse-engineers Claude.ai SSE streams
 to track real token usage and 5-hour window consumption in real time. This is useful for whoever has the free account.  
-`JavaScript` · `Browser Extension` · `Reverse Engineering`
+`JavaScript` · `Browser Extension` · `Reverse Engineering`  
+
+### 🎮 Phishy
+Multiplayer browser game, the LLM makes a non-trivial question and you have to guess the correct answer, betting on the best ones. Real-time rooms,
+Socket.io backend, built for fun and education.  
+Note: currently the system is down, but I will fix it asap.  
+`JavaScript` · `Node.js` · `Socket.io` · `Multiplayer`  
 
 ### ⚛️ PHYSICA
 Zero-dependency interactive physics playground — fluid simulation,
 cloth, falling sand, soft body, N-body gravity, wave interference.
 Single HTML file, no libraries.  
-`HTML` · `Canvas` · `Physics`
+`HTML` · `Canvas` · `Physics`  
 
 ### 🔍 VerifAI `commercial`
 Browser extension for real-time fake news detection, source intelligence,
